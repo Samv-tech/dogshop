@@ -1,0 +1,642 @@
+.header-page{
+    height: 700px;
+    width: 100%;
+    background-color: black;
+    position: relative;
+}
+
+.logo-icon>img{
+    height: 100px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.logo{
+    color: orangered;
+    font-size: 32px;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 40px;
+    font-weight: 550;
+}
+
+.motto{
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 78px;
+}
+
+.signing>a{
+    color: orangered;
+    font-size: 32px;
+    position: absolute;
+    margin-left: 780px;
+    margin-top: 40px;
+    text-decoration: none;
+}
+
+.signing>img{
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    margin-left: 1010px;
+    margin-top: 45px;
+}
+
+.shop{
+    font-size: 80px;
+    text-align: right;
+    color: aliceblue;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 300px;
+}
+
+.button{
+    background-color: white;
+    height: 60px;
+    width: 120px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 860px;
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.button>img{
+    position: inherit;
+    height: 42px;
+    width: 42px;
+    margin: 10px;
+}
+
+.button>p{
+    font-size: 24px;
+    margin-left: 55px;
+    margin-top: 17px;
+    position: inherit;
+}
+
+.bg-img>img{
+    height: 630px;
+    width: 500px;
+    position: relative;
+    margin-top: 70px;
+    margin-left: 833px;
+    z-index: 0;
+}
+
+.header-p{
+    color: white;
+    position: absolute;
+    margin-left: 205px;
+    margin-top: 480px;
+    font-size: 32px;
+}
+
+.button-read>a{
+    position: absolute;
+    margin-top: 580px;
+    margin-left: 300px;
+    font-size: 24px;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+}
+
+.footer-p{
+    color: whitesmoke;
+    padding: 30px;
+    position: absolute;
+    background-color: orangered;
+    margin-top: 592px;
+    margin-left: 1150px;
+    z-index: 1;
+    font-size: 42px;
+}
+
+.second-page{
+    height: 700px;
+    width: 100%;
+    background-color: aquamarine;
+    position: relative;
+}
+
+.second-page-img>img{
+    position: absolute;
+    transform: scaleX(-1);
+    height: 700px;
+    width: 1000px;
+}
+
+.about-dogs{
+    color: orangered;
+    font-size: 80px;
+    margin-left: 860px;
+    position: absolute;
+    margin-top: 100px;
+}
+
+.dogs-details{
+    text-align: right;
+    font-size: 28px;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 230px;
+}
+
+.button-about{
+    background-color: black;
+    margin-top: 440px;
+    position: absolute;
+    margin-left: 1092px;
+    padding: 20px;
+    font-size: 24px;
+    color: white;
+    border-radius: 15px;
+}
+
+.footer1-p{
+    color: whitesmoke;
+    padding: 30px;
+    position: absolute;
+    background-color: orangered;
+    margin-top: 592px;
+    margin-left: 1150px;
+    font-size: 42px;
+}
+
+.third-layer{
+    height: 1400px;
+    width: 100%;
+    background-color: orangered;
+    position: relative;
+}
+
+.Our-dog{
+    font-size: 72px;
+    margin-top: 80px;
+    margin-left: 945px;
+    position: absolute;
+    color: white;
+}
+
+.Our-dog-detail{
+    font-size: 28px;
+    text-align: right;
+    font-weight: 600;
+    margin-top: 180px;
+    margin-left: 310px;
+    position: absolute;
+    color: black;
+}
+
+.gallery{
+    margin: 30px;
+    position: absolute;
+    margin-top: 310px;
+}
+
+.dog1{
+    height: 400px;
+    width: 300px;
+    position: absolute;
+}
+
+.dog2{
+    height: 400px;
+    width: 300px;
+    margin-left: 970px;
+    position: absolute;
+}
+
+.dog3{
+    height: 400px;
+    width: 610px;
+    margin-left: 330px;
+    position: absolute;
+}
+
+.dog4{
+    height: 350px;
+    width: 250px;
+    position: absolute;
+    margin-top: 430px;
+}
+
+.dog5{
+    height: 350px;
+    width: 480px;
+    position: absolute;
+    margin-top: 430px;
+    margin-left: 280px;
+}
+
+.dog6{
+    height: 350px;
+    width: 480px;
+    position: absolute;
+    margin-top: 430px;
+    margin-left: 790px;
+}
+
+.dog7{
+    height: 250px;
+    width: 480px;
+    position: absolute;
+    margin-top: 810px;
+}
+
+.dog8{
+    height: 250px;
+    width: 480px;
+    position: absolute;
+    margin-top: 810px;
+    margin-left: 510px;
+}
+
+.dog9{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    margin-top: 810px;
+    margin-left: 1020px;
+}
+
+.fort-page{
+    background-color: aquamarine;
+    height: 750px;
+    width: 100%;
+    position: relative;
+}
+
+.fort-page-img>img{
+    height: 700px;
+    position: absolute;
+    margin-left: 808px;
+    margin-top: 50px;
+}
+
+.fort-about-dogs{
+    color: orangered;
+    font-size: 64px;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 130px;
+}
+
+.fort-dogs-details{
+    color: black;
+    font-size: 22px;
+    margin-left: 150px;
+    font-weight: 700;
+    margin-top: 350px;
+    position: absolute;
+}
+
+.fort-button-about{
+    font-size: 32px;
+    color: white;
+    background-color: black;
+    width: 200px;
+    text-align: center;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 500px;
+    position: absolute;
+}
+
+.footer2-p{
+    color: whitesmoke;
+    padding: 30px;
+    position: absolute;
+    background-color: orangered;
+    margin-left: 180px;
+    font-size: 42px;
+    margin-top: 643px;
+}
+
+.contact-us{
+    height: 800px;
+    width: 100%;
+    background-image:url("./images/dog11.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    
+}
+
+h2{
+    text-align: center;
+    color: black;
+    font-size: 48px;
+    position: absolute;
+    left: 40%;
+}
+
+.contact-info{
+    height: 600px;
+    width: 80%;
+    background: rgb(0, 0, 0, 0.8);
+    left: 10%;
+    top: 20%;
+    position: relative;
+    border-radius: 20px;
+    border: 5px, solid, aqua;
+}
+
+.name{
+    width: 800px;
+    border: 1px, solid, whitesmoke;
+    padding: 15px;
+    left: 12%;
+    top: 20%;
+    position: absolute;
+    color: white;
+}
+
+.phone-num{
+    width: 800px;
+    border: 1px, solid, whitesmoke;
+    padding: 15px;
+    left: 12%;
+    top: 32%;
+    position: absolute;
+    color: white;
+}
+
+.your-email{
+    width: 800px;
+    border: 1px, solid, whitesmoke;
+    padding: 15px;
+    left: 12%;
+    top: 44%;
+    position: absolute;
+    color: white;
+}
+
+.message{
+    width: 800px;
+    height: 80PX;
+    border: 1px, solid, whitesmoke;
+    padding: 15px;
+    left: 12%;
+    top: 56%;
+    position: absolute;
+    color: white;
+}
+
+.button-submit{
+    width: 80px;
+    height: 40PX;
+    background-color: orangered;
+    padding: 20px;
+    left: 45%;
+    top: 80%;
+    position: absolute;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.newsletter{
+    height: 200px;
+    width: 100%;
+    position: relative;
+    background-color: orangered;
+}
+
+.newsletter-heading{
+    font-size: 54px;
+    color: white;
+    margin-left: 130px;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.newsletter-email{
+    font-size: 24px;
+    color: white;
+    margin-left: 140px;
+    margin-top: 100px;
+    position: absolute;
+    padding: 15px;
+    width: 820px;
+    border: 2px, solid, aquamarine;
+    border-radius: 30px 0px 0px 30px;
+}
+
+.newsletter-subscribe{
+    font-size: 24px;
+    color: white;
+    margin-left: 993px;
+    margin-top: 100px;
+    position: absolute;
+    padding: 15px;
+    width: 170px;
+    border: 2px, solid, black;
+    border-radius: 0px 30px 30px 0px;
+    background-color: black;
+    text-align: center;
+}
+
+.footer-page{
+    height: 600px;
+    width: 100%;
+    position: relative;
+    background-color: black;
+}
+
+.location>img{
+    height: 28px;
+    width: 32px;
+    position: absolute;
+    padding: 10px;
+    border: 1px, dashed, orangered;
+    margin-top: 45px;
+    margin-left: 400px;
+}
+
+.location-name{
+    color: white;
+    margin-top: 60px;
+    margin-left: 460px;
+    position: absolute;
+}
+
+.phone>img{
+    height: 28px;
+    width: 32px;
+    position: absolute;
+    padding: 10px;
+    border: 1px, dashed, orangered;
+    margin-top: 45px;
+    margin-left: 700px;
+}
+.phone-name{
+    color: white;
+    margin-top: 60px;
+    margin-left: 760px;
+    position: absolute;
+}
+
+.message-icon>img{
+    height: 28px;
+    width: 32px;
+    position: absolute;
+    padding: 10px;
+    border: 1px, dashed, orangered;
+    margin-top: 45px;
+    margin-left: 950px;
+}
+
+.message-name{
+    color: white;
+    margin-top: 60px;
+    margin-left: 1010px;
+    position: absolute;
+}
+
+.footer-paragraphs-heading{
+    color: white;
+    margin-top: 200px;
+    margin-left: 110px;
+    position: absolute;
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+.footer-word{
+    font-size: 20px;
+    color: aqua;
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 260px;
+    font-weight: 500;
+}
+
+.useful-link{
+    color: white;
+    margin-top: 200px;
+    margin-left: 450px;
+    position: absolute;
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+.useful-link-points{
+    color: aqua;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 250px;
+}
+
+.useful-link-points>li{
+    margin: 10px;
+}
+
+.overview{
+    color: white;
+    margin-top: 200px;
+    margin-left: 750px;
+    position: absolute;
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+.overview-list{
+    color: aqua;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 250px;
+}
+
+.overview-list>li{
+    margin: 10px;
+}
+
+.facebook-icon>img{
+    height: 48px;
+    position: absolute;
+    margin-top: 465px;
+    left: 40%;
+    border-radius: 5px;
+}
+
+.x-icon>img{
+    height: 48px;
+    position: absolute;
+    margin-top: 465px;
+    left: 45%;
+    border-radius: 5px;
+}
+
+.google-icon>img{
+    height: 48px;
+    position: absolute;
+    margin-top: 465px;
+    left: 50%;
+    border-radius: 5px;
+}
+
+.linkedin-icon>img{
+    height: 48px;
+    position: absolute;
+    margin-top: 465px;
+    left: 55%;
+    border-radius: 5px;
+}
+
+.gallery1{
+    color: white;
+    margin-top: 200px;
+    margin-left: 1050px;
+    position: absolute;
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+.gallery-images1>img{
+    height: 120px;
+    position: absolute;
+    top: 270px;
+    margin-left: 1050px;
+}
+
+.gallery-images2>img{
+    height: 120px;
+    position: absolute;
+    top: 270px;
+    margin-left: 1150px;
+}
+
+.gallery-images3>img{
+    height: 92px;
+    position: absolute;
+    top: 402px;
+    margin-left: 1050px;
+}
+.line{
+    height: 0px;
+    border: 2px, solid, white;
+    position: absolute;
+    margin-top: 530px;
+    width: 1000px;
+    left: 12%;
+}
+
+.reserve{
+    color: aqua;
+    position: absolute;
+    left: 38%;
+    top: 90%;
+}
